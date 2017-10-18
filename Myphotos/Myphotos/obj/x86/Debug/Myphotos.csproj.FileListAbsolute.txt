@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\GitHub\photo-tool-quoccuong\Myphotos\Myphotos\bin\Debug\Myphotos.exe
+C:\Users\Admin\Documents\GitHub\photo-tool-quoccuong\Myphotos\Myphotos\bin\Debug\Myphotos.pdb
+C:\Users\Admin\Documents\GitHub\photo-tool-quoccuong\Myphotos\Myphotos\obj\x86\Debug\Myphotos.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\photo-tool-quoccuong\Myphotos\Myphotos\obj\x86\Debug\Myphotos.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\photo-tool-quoccuong\Myphotos\Myphotos\obj\x86\Debug\Myphotos.exe
+C:\Users\Admin\Documents\GitHub\photo-tool-quoccuong\Myphotos\Myphotos\obj\x86\Debug\Myphotos.pdb
+C:\Users\Admin\Documents\GitHub\photo-tool-quoccuong\Myphotos\Myphotos\obj\x86\Debug\Myphotos.MainForm.resources
